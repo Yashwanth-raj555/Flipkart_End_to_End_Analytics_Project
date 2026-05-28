@@ -1,6 +1,6 @@
 # Flipkart_End_to_End_Analytics_Project
 
-## End-to-End E-Commerce Product Analytics Project
+## End-to-End E-Commerce Product Analytics 
 
 An end-to-end e-commerce analytics project built using Python, SQL Server, and Power BI to analyze Flipkart product pricing, discounts, ratings, categories, brands, and premium outlier products through interactive dashboards and business intelligence reporting.
 
