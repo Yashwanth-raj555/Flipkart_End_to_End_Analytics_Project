@@ -1,0 +1,49 @@
+```gitignore id="jlwm8"
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Environment files
+.env
+venv/
+.venv/
+
+# Logs
+*.log
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Power BI temporary files
+*.tmp
+*.bak
+
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Python virtual environments
+env/
+ENV/
+
+# Cache
+.cache/
+.pytest_cache/
+
+# Temporary folders
+temp/
+tmp/
+
+# Build files
+build/
+dist/
+*.egg-info/
+```
